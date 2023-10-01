@@ -1,4 +1,4 @@
-provisioning: cloud1
+provisioning: cloud
 
 modules:
   cloud:
